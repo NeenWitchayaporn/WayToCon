@@ -5,4 +5,4 @@ WayToCon is a web application about concert ticket booking. My responsibility in
 
 # Link for view all artifact
   - UI : https://www.figma.com/file/iVy4zNRLqJZQwB7qX4TX8r/WayToCon?type=design&node-id=0-1&mode=design&t=ForQNz0chOOwq5NY-0
-  - Report: https://drive.google.com/drive/folders/1N7YVh2aYX4Dg8Z4rmCzwtfg6s14ZXuFs
+ 
